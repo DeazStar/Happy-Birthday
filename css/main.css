@@ -1337,3 +1337,13 @@ body {
   -webkit-animation-play-state: paused !important;
           animation-play-state: paused !important;
 }/*# sourceMappingURL=main.css.map */
+
+a {
+position: absolute;
+  background: white;
+  color: red;
+  top: 6%;
+  border: solid;
+  padding: 10px 40px;
+  left: 46%;
+}
