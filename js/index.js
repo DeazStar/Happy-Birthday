@@ -42,8 +42,8 @@ let x = 0;
 
       //window.location = urlParts.join("/") + "/" + newLastPart;
       document.querySelector(".wishesFont center").innerHTML =
-        "Roses are red, violets are blue,<br>" +
-        "I'm so happy, lost in the beauty of you.";
+        "Roses are red, violates are blue,<br>" +
+        "I'm so happy to be lost on dem beautiful eyes of you";
 
       // Select the div with the class 'img'
       let imgDiv = document.querySelector(".img");
